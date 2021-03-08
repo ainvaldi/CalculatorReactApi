@@ -1,0 +1,18 @@
+[
+
+    {
+        "id":1,
+        "operandoUno":1,
+        "operador":"+",
+        "operandoDos":1,
+        "resultado":2
+    },
+    {
+        "id":2,
+        "operandoUno":4,
+        "operador":"-",
+        "operandoDos":10,
+        "resultado":-6
+    }
+
+]
